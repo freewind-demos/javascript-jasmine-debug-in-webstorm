@@ -9,11 +9,8 @@
   "keywords": [],
   "author": "",
   "license": "ISC",
-  "dependencies": {
-    "jasmine": "^2.4.1"
-  },
   "devDependencies": {
     "jasmine": "^2.4.1",
-    "jasmine-node": "^1.14.5"
+    "jasmine-console-reporter": "^1.2.6"
   }
 }
