@@ -4,6 +4,7 @@ Jasmine Debugging Demo
 How to use webstorm to debug jasmine specs.
 
 ```
+npm install -g jasmine
 npm install
 ```
 
